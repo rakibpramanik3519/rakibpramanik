@@ -1,0 +1,117 @@
+*{
+    margin:0;
+    padding:0;
+}
+img.PP {
+    width: 150px;
+    border-radius: 100%;
+    height: 148px;
+    margin-top: 7px;
+    margin-left: 20px;
+}
+
+img.DIGITAL {
+    width: 87px;
+    float: left;
+    margin-left: 76px;
+    margin-top: -4px;
+}
+
+.main-section {
+    width: 595px;
+    height: 338px;
+    background: #f1f6ff;
+    box-shadow: 0 0 20px 0px #272727;
+    position: absolute;
+    border-radius: 21px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.top-part {
+    height: 45px;
+    width: 100%;
+    overflow: hidden;
+}
+
+img.freelancer-logo-main {
+    width: 145px;
+    margin-left: 24px;
+    margin-top: 9px;
+}
+
+.left-part {
+    width: 35%;
+    float: left;
+}
+
+.right-part {
+    width: 65%;
+    float: left;
+}
+li {
+    list-style-type: none;
+}
+
+.name-title {
+    text-align: center;
+    /* margin-right: 108px; */
+    margin-top: 7px;
+}
+
+h2.ID-name {
+    font-family: system-ui;
+    font-size: 29px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: -4px;
+    color: #3a3a3a;
+    text-align: left;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 20px;
+    font-family: system-ui;
+    text-transform: capitalize;
+    margin-bottom: 9px;
+    margin-right: 95px;
+}
+
+.phone-email {
+    font-family: system-ui;
+    font-weight: 600;
+    color: #636363;
+    font-size: 16px;
+}
+.mid-part {
+    height: 197px;
+    width: 100%;
+}
+
+.title {
+    width: 19%;
+    float: left;
+}
+
+.semi-colon {
+    width: 11%;
+    float: left;
+}
+
+body {
+    background: #61f0f7;
+}
+img.DIGITAL.logo-a {
+    width: 139px;
+    margin-left: 60px;
+}
+
+img.DIGITAL.logo-b {
+    width: 95px;
+    margin-top: 6px;
+    margin-left: 50px;
+}
