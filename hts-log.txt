@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Jan 2021 23:54:29 at https://eklas-me.github.io/calculator/?fbclid=IwAR1LN0b-frEH4_wKUG5Y1Uk4s2fvW5LTUNoaSvnDFvzuAahmux-b9mO6wgY +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://eklas-me.github.io/calculator/?fbclid=IwAR1LN0b-frEH4_wKUG5Y1Uk4s2fvW5LTUNoaSvnDFvzuAahmux-b9mO6wgY -O1 "C:\My Web Sites\sdsd" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 6 links scanned, 5 files written (226043 bytes overall) [48278 bytes received at 9655 bytes/sec], 231185 bytes transferred using HTTP compression in 6 files, ratio 18%, 2.0 requests per connection
+(No errors, 0 warnings, 0 messages)
